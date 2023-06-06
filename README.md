@@ -1,9 +1,10 @@
 # CC-project
 
 This project consists of 2 apps.
-The server app which uses Express.js to create a REST API to perform CRUD operations on a hotel room database.
+The server app which uses Express.js to create a REST API to perform CRUD.
 
 The client app is a React app which has a UI to perform Create, Read, Update and Delete operations on a hotel room management database.
+The client interacts with the server using a REST API call. This way the client has no knowledge about the database and cannot access it.
 
 
 To run this project first download both client and server.
