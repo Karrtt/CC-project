@@ -15,6 +15,8 @@ A new browser window should open with a UI to perform CRUD.
 
 
 Adding a record
+![image](https://github.com/Karrtt/CC-project/assets/79457820/82d5965d-9c09-434b-9178-6ab08384c25c)
+
 ![image](https://github.com/Karrtt/CC-project/assets/79457820/9f088ce6-ce0a-4474-8081-8e50877ba39f)
 
 
