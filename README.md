@@ -6,8 +6,10 @@ The server app which uses Express.js to create a REST API to perform CRUD.
 The client app is a React app which has a UI to perform Create, Read, Update and Delete operations on a hotel room management database.
 The client interacts with the server using a REST API call. This way the client has no knowledge about the database and cannot access it.
 
+This project was deployed on an EC2 instance as part of Cloud Computing course. In addition we used a mySQL instance on AWS RDS to store the data.
 
-To run this project first download both client and server.
+
+To run this project locally first download both client and server.
 Start up the SQL server on your localhost, you can do it using mysql workbench.
 Make sure the database credentials are correct in the index.js file on the server and a "hotel_rooms" database is created in the SQL server.
 Run the server first by executing "nodemon index.js" in a terminal.
